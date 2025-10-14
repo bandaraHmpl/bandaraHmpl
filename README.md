@@ -13,8 +13,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   
-  <br><br>
-    <img src="https://komarev.com/ghpvc/?username=bandaraHmpl&color=blue" alt="Profile Views">
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=bandaraHmpl&color=blue" alt="Profile Views">
   
 </div>
 
