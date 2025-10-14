@@ -1,7 +1,7 @@
 # Pradeep Lakshan
 
 <div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/bandaraHmpl" style="margin: 1px 5px;">
+  <a href="https://github.com/bandaraHmpl" style="margin: 10px 5px;">
     <img src="https://img.shields.io/github/followers/bandaraHmpl?label=Follow&style=social" alt="GitHub Follow">
   </a>
   
