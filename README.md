@@ -15,7 +15,7 @@
 
 </div>
 
-<div align="center" style="margin-top: 10px;">
+<div align="center" style="margin-top: 20px;">
   
   <img src="https://komarev.com/ghpvc/?username=bandaraHmpl&color=blue" alt="Profile Views">
   
