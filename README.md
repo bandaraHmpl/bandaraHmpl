@@ -1,13 +1,13 @@
 # Pradeep Lakshan
 
 <div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/bandaraHmpl">
+  <a href="https://github.com/bandaraHmpl" style="margin: 0 5px;">
     <img src="https://img.shields.io/github/followers/your_github_username?label=Follow&style=social" alt="GitHub Follow">
   </a>
-  <a href="https://linkedin.com/in/bandaraHmpl">
+  <a href="https://linkedin.com/in/bandaraHmpl" style="margin: 0 5px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:lakshanbandara455@gmail.com">
+  <a href="mailto:lakshanbandara455@gmail.com" style="margin: 0 5px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   <br><br>
