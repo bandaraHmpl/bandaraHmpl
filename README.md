@@ -17,11 +17,12 @@
 
 ### 📫 Connect with me
 
-[![GitHub](https://img.shields.io/github/followers/bandaraHmpl?label=Follow&style=social)](https://github.com/bandaraHmpl)
-[![X](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-![Profile Views](https://komarev.com/ghpvc/?username=bandaraHmpl&style=flat-square&color=blue)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/bandaraHmpl)
+[![X](https://img.shields.io/badge/X-Follow-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
+[![Email](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+![Profile Views](https://komarev.com/ghpvc/?username=bandaraHmpl&style=for-the-badge&color=blue)
+
 
 ---
 
