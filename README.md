@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##<!--
+##
 **bandaraHmpl/bandaraHmpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email](mailto:lakshanbandara455@gmail.com) | [LinkedIn](https://linkedin.com/in/bandaraHmpl)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I balance both code and creativity.
--->
