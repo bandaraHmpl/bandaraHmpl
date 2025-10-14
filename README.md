@@ -1,23 +1,17 @@
 # Pradeep Lakshan
 
-<div align="center" style="text-align: center;">
-
+<div align="center" style="margin-top: 10px;">
   <a href="https://github.com/bandaraHmpl">
     <img src="https://img.shields.io/github/followers/your_github_username?label=Follow&style=social" alt="GitHub Follow">
   </a>
-
   <a href="https://linkedin.com/in/bandaraHmpl">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
   <a href="mailto:lakshanbandara455@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-
-  <br>
-
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=bandaraHmpl&color=blue" alt="Profile Views">
-
 </div>
 
 ## 👨‍💻 About Me
