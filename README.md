@@ -12,22 +12,10 @@
   <a href="mailto:lakshanbandara455@gmail.com" style="margin: 0 5px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-
-</div>
-
-<div align="center" style="margin-top: 20px;">
   
   <img src="https://komarev.com/ghpvc/?username=bandaraHmpl&color=blue" alt="Profile Views">
   
 </div>
-
-<style>
-  a img:hover {
-    transform: scale(1.05);
-    transition: 0.2s;
-  }
-</style>
-
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently exploring software and web development through personal and academic projects, along with creative work like AutoCAD, graphic design, and video editing.
