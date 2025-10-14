@@ -2,7 +2,7 @@
 
 <div align="center" style="margin-top: 10px;">
   <a href="https://github.com/bandaraHmpl" style="margin: 0 5px;">
-    <img src="https://img.shields.io/github/followers/your_github_username?label=Follow&style=social" alt="GitHub Follow">
+    <img src="https://img.shields.io/github/followers/bandaraHmpl?label=Follow&style=social" alt="GitHub Follow">
   </a>
   <a href="https://linkedin.com/in/bandaraHmpl" style="margin: 0 5px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
