@@ -21,6 +21,14 @@
   
 </div>
 
+<style>
+  a img:hover {
+    transform: scale(1.05);
+    transition: 0.2s;
+  }
+</style>
+
+
 ## 👨‍💻 About Me
 - 🔭 I’m currently exploring software and web development through personal and academic projects, along with creative work like AutoCAD, graphic design, and video editing.
 - 🌱 I’m currently learning University of Ruhuna (Computer Science undergraduate).
