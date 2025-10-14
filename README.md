@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/github/followers/your_github_username?label=Follow&style=social" alt="GitHub Follow">
   </a>
 
+  &nbsp;&nbsp;&nbsp;
   
   <a href="https://linkedin.com/in/bandaraHmpl">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
