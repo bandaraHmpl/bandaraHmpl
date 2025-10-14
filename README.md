@@ -1,4 +1,4 @@
-## About Me
+## 👨‍💻 About Me
 - 🔭 I’m currently exploring software and web development through personal and academic projects, along with creative work like AutoCAD, graphic design, and video editing.
 - 🌱 I’m currently learning University of Ruhuna (Computer Science undergraduate).
 - 👯 I’m looking to collaborate on innovative tech projects, creative media, and open-source software.
