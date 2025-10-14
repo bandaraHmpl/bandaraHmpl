@@ -5,5 +5,4 @@
 - 🤔 I’m looking for help with finding internship or job opportunities to gain real-world experience.
 - 💬 Ask me about programming, design tools, web development, or even video editing!
 - 📫 How to reach me: [Email](mailto:lakshanbandara455@gmail.com) | [LinkedIn](https://linkedin.com/in/bandaraHmpl)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I balance both code and creativity.
